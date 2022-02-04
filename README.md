@@ -9,3 +9,8 @@ Clone the repository onto your computer, change directory into the folder and us
 "npm install" to install the dependencies from the package.json file. When the 
 dependencies are done installing use "npm run dev" to launch the application in your 
 browser. Please ensure you have the celo extension browser extension installed.
+
+To interact with the marketplace set your celo wallet to alfajores testnet and get
+some tokens for free on https://celo.org/developers/faucet.
+
+Now you can buy or publish as many products as you want.
